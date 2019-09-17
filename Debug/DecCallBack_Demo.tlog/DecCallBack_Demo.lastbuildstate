@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v141:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit:WindowsTargetPlatformVersion=10.0.17763.0
+Debug|Win32|G:\程序\cpp\MFC\CH-HCNetSDKV6.0.2.35_build20190411_Win32 (1)\CH-HCNetSDKV6.0.2.35_build20190411_Win32\Demo示例\2- MFC分功能示例\2- 实时流回调解码获取YUV - 副本\|
